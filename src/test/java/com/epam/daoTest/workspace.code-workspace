@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../Univer/src/labs/laba7"
+		},
+		{
+			"name": "task1",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"git.ignoreLimitWarning": true
+	}
+}
